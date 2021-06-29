@@ -1,9 +1,3 @@
-# Name: Daniel Kirby
-# Date: 5/26/2021
-# Description: This program contains a class for the game Kuba. The game
-#              is played by two players and the objective is to push 7 red
-#              marbles off the board before the other player
-
 from copy import deepcopy
 
 
